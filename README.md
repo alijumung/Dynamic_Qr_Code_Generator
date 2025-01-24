@@ -1,1 +1,1 @@
-# Dijitolye Project
+# Dijitolye QR_CODE_GENERATOR_PROJECT
